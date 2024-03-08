@@ -8,9 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "CV"
-        href: index.pdf
       - about.qmd
+      - text: "CV"
+        href: Punnoose_Catherine_UXD_Resume2024.pdf
+      
 
 format:
   html:
