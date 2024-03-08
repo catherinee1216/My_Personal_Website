@@ -1,7 +1,12 @@
 ---
-title: "My_Personal_Website"
+title: "Catherine's Website"
+cv: 
+  pdf:"Punnoose_Catherine_UXD_Resume2024.pdf"
 ---
 
-This is my Quarto website.
+## Hi, I’m Catherine 👋, and I am a UX Designer based in Toronto, Canada.
 
-  
+I’m currently a third year student in the Bachelors of Information program at the University of Toronto. I have experience in few fields such as User Experience Design, Graphic Design, Illustration and Social Media Marketing! Apart from my studies, I’m also a huge Formula 1 fan and love watching races as much as I can! 
+
+## View my CV 
+

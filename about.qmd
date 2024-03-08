@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+# Bio
 
-```{r}
-1 + 1
-```
+I’m a UX and Graphic Designer. I’m also a third year student in the Bachelors of Information program at the University of Toronto. I have experience in User Experience Design, Graphic Design, Illustration and Social Media Marketing!
+
+Originally from Kerala, India and currently living in Toronto, Canada. I have been a graphic designer since 2018 and always looking for new opportunities to showcase my skills and diverse background. My philosophy is to always keep the audience first and it is always reflected in my projects!
